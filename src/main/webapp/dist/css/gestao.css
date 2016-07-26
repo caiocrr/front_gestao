@@ -1,0 +1,35 @@
+#pesquisa{
+    margin-top:50px;
+}
+#divLoading{
+    display:none;
+}
+body {
+    background-color: #ffffff;
+
+}
+
+#tableResult{
+    border-color: #c6c6c6;
+}
+tr.spaceUnder > td
+{
+    padding-bottom: 1em;
+}
+
+table {
+    margin: 0 auto; /* or margin: 0 auto 0 auto */
+    margin-top:30px;
+}
+.holder {   
+  width: auto;
+  display: inline-block;    
+}
+
+.holder img {
+  width: 60%; /* Will shrink image to 30% of its original width */
+  height: auto;
+}
+
+
+
